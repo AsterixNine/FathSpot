@@ -5,10 +5,6 @@
   <img src="https://media.discordapp.net/attachments/1470586143258185932/1485467591341248674/MOD_SPOT.png?ex=69c1f900&is=69c0a780&hm=374bb84481c60b7cbe62687d287e6750447279488e4bfa803f30e5658af06350&=&format=webp&quality=lossless&width=1128&height=282" alt="Fath Spot Banner">
 </p>
 
-
-<p align="center">
-  <b>A Fênix renascendo no Spotify: Mod completo para Windows.</b>
-</p>
 <p align="center">
 <img src="https://media.discordapp.net/attachments/1470586143258185932/1485467590573691031/BARRINHA.png?ex=69c1f900&is=69c0a780&hm=626d10b460c0cc684b1146121c73e4e2f3bec6f1ef53085f4c0a17f24ea32472&=&format=webp&quality=lossless&width=1128&height=19" alt="barrinha">
 </p>
